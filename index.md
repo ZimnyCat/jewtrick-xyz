@@ -2,7 +2,8 @@
 
 Вход на 2b2t без очереди после рестарта
 
-### [Скачать jew trick 2.1 для Windows](https://github.com/ZimnyCat/jewtrick-client/releases/download/2.1/JewTrick.exe)
+### [Скачать jew trick 2.2 для Windows](https://github.com/ZimnyCat/jewtrick-client/releases/download/2.2/jewtrick.exe)
+### [Скачать jew trick 2.2 Python](https://github.com/ZimnyCat/jewtrick-client/releases/download/2.2/jewtrick-py.zip)
 ![](https://img.shields.io/github/downloads/ZimnyCat/jewtrick-client/total?style=flat-square)
 
 Запустите JewTrick.exe. Дождитесь рестарта 2b2t, после чего дождитесь сообщения "JEW TRICK TIME!!!" и заходите на сервер.
@@ -13,3 +14,7 @@
 
 Если при заходе на 2b2t вам написало "You have lost connection to the server", значит, админ 2b2t опять приобрёл наркотические вещества.
 Зайдите в settings.txt и поменяйте настройку "ping" на противоположное значение.
+
+[Исходный код](https://github.com/ZimnyCat/jewtrick-client)
+
+[API](http://server.jewtrick.xyz/)
