@@ -15,6 +15,8 @@
 Если при заходе на 2b2t вам написало "You have lost connection to the server", значит, админ 2b2t опять приобрёл наркотические вещества.
 Зайдите в settings.txt и поменяйте настройку "ping" на противоположное значение.
 
+[Настройки](https://jewtrick.xyz/settings)
+
 [Исходный код](https://github.com/ZimnyCat/jewtrick-client)
 
 [API](http://server.jewtrick.xyz/)
