@@ -6,7 +6,9 @@
 ### [Скачать jew trick 2.3 Python](https://github.com/ZimnyCat/jewtrick-client/releases/download/2.3/jewtrick-py.zip)
 ![](https://img.shields.io/github/downloads/ZimnyCat/jewtrick-client/total?style=flat-square)
 
-Запустите jewtrick.exe/jewtrick.py. Дождитесь рестарта 2b2t, после чего дождитесь сообщения "JEW TRICK TIME!!!" и заходите на сервер.
+1. Запустите jewtrick.exe/jewtrick.py.
+
+2. Дождитесь сообщения "JEW TRICK TIME!!!" и заходите на 2b2t.
 
 Вы можете настроить jew trick в файле settings.txt, который должен создаться при первом запуске в папке с jew trick.
 
